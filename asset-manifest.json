@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a4d11c6.chunk.css",
+    "main.js": "/static/js/main.9c2e2bb3.chunk.js",
+    "main.js.map": "/static/js/main.9c2e2bb3.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.2ce0d9b2.chunk.css": "/static/css/2.2ce0d9b2.chunk.css",
+    "static/js/2.11e83f9e.chunk.js": "/static/js/2.11e83f9e.chunk.js",
+    "static/js/2.11e83f9e.chunk.js.map": "/static/js/2.11e83f9e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.573ebb7c7ef3a71a9425afeadc4894a2.js": "/precache-manifest.573ebb7c7ef3a71a9425afeadc4894a2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2ce0d9b2.chunk.css.map": "/static/css/2.2ce0d9b2.chunk.css.map",
+    "static/css/main.4a4d11c6.chunk.css.map": "/static/css/main.4a4d11c6.chunk.css.map",
+    "static/media/styles.scss": "/static/media/background.a4796c7b.png",
+    "static/media/gifs_app.gif": "/static/media/gifs_app.cc2ff228.gif",
+    "static/media/gifs_heroes_app.gif": "/static/media/gifs_heroes_app.0ab0d7b5.gif",
+    "static/media/mi_cv.pdf": "/static/media/mi_cv.615cd74f.pdf",
+    "static/media/paises_app.gif": "/static/media/paises_app.4d036eff.gif"
+  }
+}

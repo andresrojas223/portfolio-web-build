@@ -1,5 +1,6 @@
 {
   "short_name": "React App",
+  "homepage": "https://andresrojas223.github.io/portfolio-web-build",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -18,6 +19,13 @@
       "sizes": "512x512"
     }
   ],
+
+  "scripts": {
+
+   "predeploy":"npm run build",
+   "deploy": "gh-pages -d build"
+  },
+   
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
